@@ -35,7 +35,7 @@
     {
         if (A <= 0 || B <= 0)
         {
-            Console.WriteLine("No se pueden multiplicar números negativos.");
+            Console.WriteLine("No se pueden multiplicar números negativos o 0.");
             return 0;
         }
         else
